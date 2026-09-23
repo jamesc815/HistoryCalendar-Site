@@ -9,10 +9,10 @@ History Calendar is a utility that store event by day on your iPhone. It is buil
 * There are no accounts, no analytics, no tracking, and no advertising.
 * Information leaves your device when you export your events.
 
-##What the app stores
+<h3>What the app stores</h3>
 History Calendar stores the events as you create them in the app's own storage.
 
-##Contacting support
+<h2>Contacting support</h2>
 You can contact support using email listed below. 
 
 ##Data sharing
