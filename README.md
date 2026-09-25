@@ -1,4 +1,7 @@
-<h1 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 34.8px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">History Calendar</span></h1>
+------
+title: History Page
+------
+<!--h1 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 34.8px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">History Calendar</span></h1-->
 <p class="p2"><span class="s1">A simple way to keep a running log of what happens on any given day — one entry at a time, kept entirely in your own hands.</span></p>
 <h2 style="margin: 0.0px 0.0px 6.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">What it does</span></h2>
 <p class="p4"><span class="s1">History Calendar lets someone pick any date and record the events that happened on it — a meeting, a symptom, a milestone, a small note worth remembering. Each day builds its own short list of entries.</span></p>
