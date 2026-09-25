@@ -1,6 +1,4 @@
----
-title: "History Calendar"
----
+
 <!--h1 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 34.8px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">History Calendar</span></h1-->
 <p class="p2"><span class="s1">A simple way to keep a running log of what happens on any given day — one entry at a time, kept entirely in your own hands.</span></p>
 <h2 style="margin: 0.0px 0.0px 6.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">What it does</span></h2>
