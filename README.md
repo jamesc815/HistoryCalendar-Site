@@ -5,9 +5,9 @@
 <h2 style="margin: 0.0px 0.0px 6.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">Core features</span></h2>
 <ul class="ul1">
   <li>
-</span><span class="s4">Record events by day<br>
-</span><span class="s1">Choose a date for the event and add a short note about what happened.<br></li>
-</span><span class="s4"><br>
+Record events by day<br>
+Choose a date for the event and add a short note about what happened.<br></li>
+<br>
 <li>
 </span><span class="s4">Add events<br>
 </span><span class="s1">Tap the “+” button at the top of the app page. Selected the day that the event occurred (the date defaults to the current day. Add a short note about what happened and save to event.<br></li>
