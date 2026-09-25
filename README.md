@@ -3,28 +3,28 @@
 <h2 style="margin: 0.0px 0.0px 6.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">What it does</span></h2>
 <p class="p4"><span class="s1">History Calendar lets someone pick any date and record the events that happened on it — a meeting, a symptom, a milestone, a small note worth remembering. Each day builds its own short list of entries.</span></p>
 <h2 style="margin: 0.0px 0.0px 6.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">Core features</span></h2>
-<ul class="ul1">
+<ul>
   <li>
 Record events by day<br>
 Choose a date for the event and add a short note about what happened.<br></li>
 <br>
 <li>
-</span><span class="s4">Add events<br>
-</span><span class="s1">Tap the “+” button at the top of the app page. Selected the day that the event occurred (the date defaults to the current day. Add a short note about what happened and save to event.<br></li>
-</span><span class="s4"><br>
+Add events<br>
+Tap the “+” button at the top of the app page. Selected the day that the event occurred (the date defaults to the current day. Add a short note about what happened and save to event.<br></li>
+<br>
 <li>
-</span><span class="s4">Remove events<br>
-</span><span class="s1">Any entry can be deleted from its day's list if it was added by mistake or is no longer needed.<br></li>
-</span><span class="s4"><br>
+Remove events<br>
+Any entry can be deleted from its day's list if it was added by mistake or is no longer needed.<br></li>
+<br>
 <li>
-</span><span class="s4">Export everything<br>
-</span><span class="s1">Every event ever logged can be bundled into a single file, so the whole history can be saved as a backup or moved elsewhere.<br></li>
-</span><span class="s4"><br>
+Export everything<br>
+Every event ever logged can be bundled into a single file, so the whole history can be saved as a backup or moved elsewhere.<br></li>
+<br>
 <li>
-</span><span class="s4">Import a backup<br>
-</span><span class="s1">A previously exported file can be loaded back in, merging its events with whatever is already recorded, so no history is lost.<br>
-</span></li>
+Import a backup<br>
+A previously exported file can be loaded back in, merging its events with whatever is already recorded, so no history is lost.<br></li>
 </ul>
+
 <h2 style="margin: 0.0px 0.0px 6.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">How someone would use it</span></h2>
 <ol class="ol1">
   <li class="li6"><span class="s5"></span><span class="s6">Open the app and land on today's date, or pick another day from the calendar.</span></li>
