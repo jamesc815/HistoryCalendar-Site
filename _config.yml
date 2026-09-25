@@ -3,3 +3,6 @@ title: History Calendar
 author: 
   name: "James Collins"
   email: "jcollins.sea.work@gmail.com"
+minima:
+  nav_pages:
+    - privacy.md
