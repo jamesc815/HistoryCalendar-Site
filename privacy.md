@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Privacy"
 permalink: /privacy
 ---
 History Calendar is a utility that store event by day on your iPhone. It is built to keep your data on your device. This policy explains what the app handles and the only circumstances in which anything leaves your phone.
