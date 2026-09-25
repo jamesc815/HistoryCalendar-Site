@@ -35,4 +35,4 @@ A previously exported file can be loaded back in, merging its events with whatev
 <h2 style="margin: 0.0px 0.0px 6.0px 0.0px; font: 18.0px 'Helvetica Neue'; color: #1a201c; -webkit-text-stroke: #1a201c"><span class="s1">What gets stored</span></h2>
 <p class="p4"><span class="s1">Each event has two pieces of information: the date it belongs to and the event text. Exported files package all of this into one plain, portable file so a person's history isn't locked into any one device.</span></p>
 <p class="p8"><span class="s1">A typical export looks like a list of dates, each holding the events recorded for it — for example, one day might hold an entry titled </span><span class="s7">Dentist appointment</span><span class="s1"> at </span><span class="s7">9:30</span><span class="s1">, and another might hold a few untimed notes with no time attached at all.</span></p>
-<p class="p9"><span class="s1">History Calendar — a day-by-day event log, kept in the user's own hands.</span></p>
+
